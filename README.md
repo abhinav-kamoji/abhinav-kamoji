@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhinav-kamoji
 - 👀 I’m interested in coding and learning new languages. 
-- 🌱 I’m currently studying in Class-X.
-- 💞️ I want to learn some deep languages like C, python and JAVA
+- 🌱 I’m currently studying in TU Dresden.
+- 💞️ I want to learn some deep languages like DSA, Python and Kotlin.
 - 📫 How to reach me ... My Mail ID:- abhinav271006@gmail.com
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
