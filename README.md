@@ -5,7 +5,7 @@
 ### Propädeutikum @ TU Dresden · Python · Web Dev · C++ · Kotlin · Multilingual
 
 I build small but meaningful things — bots that help people learn, CLI tools, and web apps.  
-Currently preparing for an engineering degree at TU Dresden while exploring software development.
+Currently at TU Dresden exploring software development.
 
 [![Email](https://img.shields.io/badge/Email-abhinav271006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinav271006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-abhinav--kamoji-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinav-kamoji)
@@ -17,7 +17,7 @@ Currently preparing for an engineering degree at TU Dresden while exploring soft
 
 ## About Me
 
-I'm an international student from India, currently enrolled in the Propädeutikum at **Technische Universität Dresden**, preparing for an engineering degree. Before that, I completed the **Studienkolleg T-Kurs** at TUDIAS GmbH.
+I'm an international student from India, currently enrolled in the Propädeutikum at **Technische Universität Dresden**. Before that, I completed the **Studienkolleg T-Kurs** at TUDIAS GmbH.
 
 - 🤖 Built a **Telegram bot** used by fellow students to share German learning notes
 - 🌦️ Built a **weather CLI** using REST APIs and JSON parsing in Python
