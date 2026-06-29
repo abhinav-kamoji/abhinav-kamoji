@@ -5,11 +5,11 @@
 ### Propädeutikum @ TU Dresden · Python · Web Dev · C++ · Kotlin · Multilingual
 
 I build small but meaningful things — bots that help people learn, CLI tools, and web apps.  
-Currently at TU Dresden exploring software development.
+Currently preparing for an engineering degree at TU Dresden while exploring software development.
 
 [![Email](https://img.shields.io/badge/Email-abhinav271006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinav271006@gmail.com)
-[[![GitHub](https://img.shields.io/badge/GitHub-abhinav-kamoji-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinav-kamoji)
-](https://img.shields.io/badge/GitHub-abhinav--kamoji-181717?style=for-the-badge&logo=github&logoColor=white)[![Location](https://img.shields.io/badge/Location-Dresden%2C%20Deutschland-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Dresden)
+[![GitHub](https://img.shields.io/badge/GitHub-abhinav--kamoji-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinav-kamoji)
+[![Location](https://img.shields.io/badge/Location-Dresden%2C%20Deutschland-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Dresden)
 
 </div>
 
