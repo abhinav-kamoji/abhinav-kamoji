@@ -65,9 +65,9 @@ German Tech Internships  Open Source Contributions
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [Telegram Lernbot](https://github.com/[dein-username]/telegram-lernbot) | A bot that delivers structured German learning notes to students on demand. Used by fellow Studienkolleg students. | Python, Telegram Bot API |
-| [Wetter-CLI](https://github.com/[dein-username]/wetter-cli) | Command-line tool to fetch real-time weather data with clean formatted output and error handling. | Python, REST API, JSON |
-| [Notepad-Klon](https://github.com/[dein-username]/notepad-clone) | A functional desktop text editor with open, save, and edit features built with a full GUI. | Python, Tkinter |
+| [Telegram Lernbot](https://github.com/abhinav-kamoji/telegram-lernbot) | A bot that delivers structured German learning notes to students on demand. Used by fellow Studienkolleg students. | Python, Telegram Bot API |
+| [Wetter-CLI](https://github.com/abhinav-kamoji/wetter-cli) | Command-line tool to fetch real-time weather data with clean formatted output and error handling. | Python, REST API, JSON |
+| [Notepad-Klon](https://github.com/abhinav-kamoji/notepad-clone) | A functional desktop text editor with open, save, and edit features built with a full GUI. | Python, Tkinter |
 
 ---
 
@@ -83,8 +83,8 @@ Currently solving problems on **HackerRank** and **LeetCode** in C++.
 
 <div align="center">
 
-<img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=[dein-username]&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[dein-username]&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-kamoji&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-kamoji&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
