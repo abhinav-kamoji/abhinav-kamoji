@@ -2,10 +2,10 @@
 
 # Hi, I'm Abhinav Shivanath Kamoji 👋
 
-### Propädeutikum @ TU Dresden · Python · Web Dev · C++ · Kotlin · Multilingual
+### Computer Engineering Bsc. @ RWTH Aachen · Python · Web Dev · C++ · Kotlin · Multilingual
 
 I build small but meaningful things — bots that help people learn, CLI tools, and web apps.  
-Currently at TU Dresden exploring software development.
+Currently at RWTH Aachen exploring software development.
 
 [![Email](https://img.shields.io/badge/Email-abhinav271006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinav271006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-abhinav--kamoji-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinav-kamoji)
@@ -17,14 +17,14 @@ Currently at TU Dresden exploring software development.
 
 ## About Me
 
-I'm an international student from India, currently enrolled in the Propädeutikum at **Technische Universität Dresden**. Before that, I completed the **Studienkolleg T-Kurs** at TUDIAS GmbH.
+I'm an international student from India, currently enrolled in the Computer Engineering B.sc. at **RWTH Aachen**. Before that, I completed the **Studienkolleg T-Kurs** at TUDIAS GmbH.
 
 - 🤖 Built a **Telegram bot** used by fellow students to share German learning notes
 - 🌦️ Built a **weather CLI** using REST APIs and JSON parsing in Python
 - 🖊️ Made a **Notepad clone** with a full GUI using Python and Tkinter
 - 📚 Practising **DSA in C++** on HackerRank and LeetCode (arrays, queues, linked lists, recursion)
 - 📱 Currently learning **Kotlin** for Android development via Udemy
-- 🌍 Speak **5 languages** — Deutsch (C1), English (C2), Kannada, Hindi, Marathi
+- 🌍 Speak **5 languages** — Deutsch (C1), English (C1), Kannada, Hindi, Marathi
 
 ---
 
@@ -95,7 +95,7 @@ Currently solving problems on **HackerRank** and **LeetCode** in C++.
 | Language | Level |
 | --- | --- |
 | 🇩🇪 Deutsch | C1 — Verhandlungssicher |
-| 🇬🇧 Englisch | C2 — Vollständig kompetent |
+| 🇬🇧 Englisch | C1 — Vollständig kompetent |
 | 🇮🇳 Kannada / Hindi / Marathi | Muttersprache |
 
 ---
