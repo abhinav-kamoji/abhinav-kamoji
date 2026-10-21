@@ -8,7 +8,7 @@ I build small but meaningful things — bots that help people learn, CLI tools, 
 Currently at RWTH Aachen exploring software development.
 
 [![Email](https://img.shields.io/badge/Email-abhinav271006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinav271006@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-abhinav--kamoji-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinav-kamoji)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhinav--kamoji-181717?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-kamoji/)
 [![Location](https://img.shields.io/badge/Location-Aachen%2C%20Deutschland-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/F84r8hCo8FNuwaWKA)
 
 </div>
