@@ -9,7 +9,7 @@ Currently at RWTH Aachen exploring software development.
 
 [![Email](https://img.shields.io/badge/Email-abhinav271006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinav271006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinav_Kamoji-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/abhinav-kamoji)
-[![Location](https://img.shields.io/badge/Location-Aachen%2C%20Deutschland-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/F84r8hCo8FNuwaWKA)
+[![Location](https://img.shields.io/badge/Location-Aachen%2C%20Deutschland-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/F84r8hCo8FNuwaWKA)
 
 </div>
 
