@@ -2,14 +2,14 @@
 
 # Hi, I'm Abhinav Shivanath Kamoji 👋
 
-### Computer Engineering Bsc. @ RWTH Aachen · Python · Web Dev · C++ · Kotlin · Multilingual
+### Computer Engineering B.Sc. @ RWTH Aachen · Python · Web Dev · C++ · Kotlin · Multilingual
 
 I build small but meaningful things — bots that help people learn, CLI tools, and web apps.  
 Currently at RWTH Aachen exploring software development.
 
 [![Email](https://img.shields.io/badge/Email-abhinav271006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinav271006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-abhinav--kamoji-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinav-kamoji)
-[![Location](https://img.shields.io/badge/Location-Dresden%2C%20Deutschland-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Dresden)
+[![Location](https://img.shields.io/badge/Location-Aachen%2C%20Deutschland-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/F84r8hCo8FNuwaWKA)
 
 </div>
 
@@ -17,7 +17,7 @@ Currently at RWTH Aachen exploring software development.
 
 ## About Me
 
-I'm an international student from India, currently enrolled in the Computer Engineering B.sc. at **RWTH Aachen**. Before that, I completed the **Studienkolleg T-Kurs** at TUDIAS GmbH.
+I'm an international student from India, currently enrolled in the Computer Engineering B.Sc. at **RWTH Aachen**. Before that, I completed the **Studienkolleg T-Kurs** at TUDIAS GmbH.
 
 - 🤖 Built a **Telegram bot** used by fellow students to share German learning notes
 - 🌦️ Built a **weather CLI** using REST APIs and JSON parsing in Python
